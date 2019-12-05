@@ -1,0 +1,42 @@
+{ "dogs":
+
+        [{
+            "_id": "dc09",
+            "owner": { "fullName": "Daniel Shokri", "age": 24, "gender": "male" },
+            "preference": {
+                "name": "Pini",
+                "age": 12,
+                "type": "shizu",
+                "gender": "male",
+                "hobbies": ["eat", "drink", "play"],
+                "favFood": "Bonzo"
+            },
+            "userName": "daniel",
+            "password": "12345",
+            "isAdmin": true,
+            "address": "Israel, ashdod, hafrsemon",
+            "location": { "lat": 32.109333, "lng": 34.855499 },
+            "profileImg": "",
+            "notifications": [{ "_id": "1212", "text": "blalbla", "senderId": 1235 }]
+        },
+        {
+            "_id": "dc10",
+            "owner": { "fullName": "Chen Mordechai", "age": 23, "gender": "female" },
+            "preference": {
+                "name": "Noya",
+                "age": 10,
+                "type": "amstaf",
+                "gender": "female",
+                "hobbies": ["eat", "drink", "play"],
+                "favFood": "Bonzo"
+            },
+            "userName": "chen",
+            "password": "12345",
+            "isAdmin": true,
+            "address": "Israel, karney shomron",
+            "location": { "lat": 32.109333, "lng": 34.855550 },
+            "profileImg": "",
+            "notifications": [{ "_id": "1212", "text": "blalbla", "senderId": 1235 }]
+        }
+    ]
+}
