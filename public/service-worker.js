@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5cc17f384bf594495734e3ba5170ed98.js"
+  "/precache-manifest.fb897b5144747e93d70bd4d713331037.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "MeetHav"});
