@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4cba55b874fce04ef2a8",
-    "url": "/css/app.a670c6f3.css"
+    "revision": "7336fa56c3478085b8e9",
+    "url": "/css/app.8dbfd664.css"
   },
   {
-    "revision": "4cba55b874fce04ef2a8",
-    "url": "/js/app.6861e3ff.js"
+    "revision": "7336fa56c3478085b8e9",
+    "url": "/js/app.53dda027.js"
   },
   {
     "revision": "0f1499f235c38e042d23",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/img/dog.395066bd.jpg"
   },
   {
-    "revision": "d00429aae6ff174d95266eee4bd5a9a0",
+    "revision": "0f056a7d81e502c3b5862fe8a44d186b",
     "url": "/index.html"
   },
   {
@@ -64,20 +64,20 @@ self.__precacheManifest = [
     "url": "/img/home.svg"
   },
   {
-    "revision": "8b356e8c310e2e0c497cc14f9e000f40",
-    "url": "/css/style.css"
-  },
-  {
     "revision": "fb15ee291850832862d907aff4830900",
     "url": "/css/mainsite.css"
   },
   {
-    "revision": "158e6fd4633320a0960cd58bcbb05f15",
-    "url": "/images/ar.png"
+    "revision": "8b356e8c310e2e0c497cc14f9e000f40",
+    "url": "/css/style.css"
   },
   {
     "revision": "ce891638f91296269615f933519734ab",
     "url": "/images/arrow.png"
+  },
+  {
+    "revision": "158e6fd4633320a0960cd58bcbb05f15",
+    "url": "/images/ar.png"
   },
   {
     "revision": "a0a3d1c6f12f6ee62656e6ceecbfe417",
@@ -188,10 +188,6 @@ self.__precacheManifest = [
     "url": "/images/ch1.png"
   },
   {
-    "revision": "4f09feb015bb5ec27df5b42e4c8f5a18",
-    "url": "/images/ch.jpg"
-  },
-  {
     "revision": "a0c76dfbc5bdd8ebde87e47ca48d7376",
     "url": "/images/co.png"
   },
@@ -200,24 +196,32 @@ self.__precacheManifest = [
     "url": "/images/dr.png"
   },
   {
-    "revision": "d656059176befdad896561f618a425dc",
-    "url": "/images/dr1.png"
+    "revision": "4f09feb015bb5ec27df5b42e4c8f5a18",
+    "url": "/images/ch.jpg"
   },
   {
     "revision": "5651b67c645e7c825f5e3ed19907d49a",
     "url": "/images/dr2.png"
   },
   {
+    "revision": "d656059176befdad896561f618a425dc",
+    "url": "/images/dr1.png"
+  },
+  {
+    "revision": "747d5dfe03a877851c31843c8cf23362",
+    "url": "/images/dr3.png"
+  },
+  {
     "revision": "deced32802b1242a48c4650c9a6714a9",
     "url": "/images/img-sprite.png"
   },
   {
-    "revision": "9cfcd7253f5d878bcd450874dba209bb",
-    "url": "/images/lo.png"
-  },
-  {
     "revision": "f599b4bc5162215e6f32edcf290c4394",
     "url": "/images/lo1.png"
+  },
+  {
+    "revision": "9cfcd7253f5d878bcd450874dba209bb",
+    "url": "/images/lo.png"
   },
   {
     "revision": "b060518f1f8b6ab0775c7c7f8d08f611",
@@ -236,12 +240,12 @@ self.__precacheManifest = [
     "url": "/images/na.png"
   },
   {
-    "revision": "010a3f962d080c511f407330eee14e07",
-    "url": "/images/na-ba.jpg"
-  },
-  {
     "revision": "abfe391f9159589cdd501babc1d0a896",
     "url": "/images/ne.png"
+  },
+  {
+    "revision": "010a3f962d080c511f407330eee14e07",
+    "url": "/images/na-ba.jpg"
   },
   {
     "revision": "29d0d3c83e1f3c269284192c9bb02ba2",
@@ -260,20 +264,20 @@ self.__precacheManifest = [
     "url": "/images/pr1.png"
   },
   {
-    "revision": "1cea2f2a1816cbc8307ffaad417d6cd0",
-    "url": "/images/pr2.png"
-  },
-  {
     "revision": "5ebe558eb512bbf3aa85f711d4a6c213",
     "url": "/images/pr3.png"
   },
   {
-    "revision": "c9f30ca959281962eee925f4e8610a3e",
-    "url": "/images/progress.png"
-  },
-  {
     "revision": "0bd062a0fa0abcec63c2c2b3bb8b3d32",
     "url": "/images/pr4.png"
+  },
+  {
+    "revision": "1cea2f2a1816cbc8307ffaad417d6cd0",
+    "url": "/images/pr2.png"
+  },
+  {
+    "revision": "c9f30ca959281962eee925f4e8610a3e",
+    "url": "/images/progress.png"
   },
   {
     "revision": "aaafc94310f789ba8c124fb65239ea15",
@@ -308,12 +312,12 @@ self.__precacheManifest = [
     "url": "/images/ta1.jpg"
   },
   {
-    "revision": "e4cc64d5f4f7b3eb8049b64b7205e0f5",
-    "url": "/images/ta2.jpg"
-  },
-  {
     "revision": "118f8f8087786b513e2b5e9c6aa20b20",
     "url": "/images/ta3.jpg"
+  },
+  {
+    "revision": "e4cc64d5f4f7b3eb8049b64b7205e0f5",
+    "url": "/images/ta2.jpg"
   },
   {
     "revision": "97b01756f1ff3d1c6973b0e3a46a8487",
@@ -342,9 +346,5 @@ self.__precacheManifest = [
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/robots.txt"
-  },
-  {
-    "revision": "747d5dfe03a877851c31843c8cf23362",
-    "url": "/images/dr3.png"
   }
 ];
