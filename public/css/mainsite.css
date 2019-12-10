@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Robrto;
+    src: url("../assets/Fonts/Robrto/Roboto-Regular.ttf");
+}
+
+body {
+    font-family: 'Robrto';
+  }
